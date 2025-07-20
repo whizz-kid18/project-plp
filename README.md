@@ -33,3 +33,10 @@ Math Master 3000 is a playful Python script that prompts the user for two number
 2. Ensure you have Python 3 installed by running:  
    ```bash
    python --version
+Enter the first number: 5.5
+Enter the second number: 2
+Results of your two numbers:
+Sum: 7.5
+Difference: 3.5
+Product: 11.0
+Quotient: 2.75
